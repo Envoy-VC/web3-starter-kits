@@ -22,6 +22,9 @@ Our goal with the Web3 Starter Kits Repo, is to provide Members and non-members 
 - [WalletConnect Web3Modal Mobile App Starter Kit](https://github.com/PSkinnerTech/walletconnect-w3m-expo-kit)
   Easily build a mobile app with WalletConnect and Web3Modal v3. Starter kit includes Expo^49 and expo-router with dynamic routing configured in typescript.
 
+- [Web3 Hackathon Starter](https://github.com/Envoy-VC/web3-hackathon-starter)
+  A opinionated starter template for building web3 applications. Uses Next.js, TypeScript and thirdweb.
+
 ## Preferred Partners
 
 [![Zerion - Preferred Wallet Partner](./assets/zerion-lockup_main.png)](https://devdao.to/get-zerion)
